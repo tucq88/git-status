@@ -1,0 +1,7 @@
+{
+    "require": {
+        "adldap2/adldap2": "^6.1",
+        "cpliakas/git-wrapper": "~1.0",
+        "monolog/monolog": "^1.21"
+    }
+}
